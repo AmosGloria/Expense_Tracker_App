@@ -1,0 +1,29 @@
+{
+    "name": "expense_tracker_app",
+    "version": "1.0.0",
+    "description": "A sample project using Node.js",
+    "main": "index.html",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "express": "^4.17.2",
+      "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+      "mocha": "^9.1.1",
+      "chai": "^4.3.4"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AmosGloria/expense_tracker_app"
+    },
+    "keywords": [
+      "node",
+      "express",
+      "example"
+    ],
+    "author": "Amos Gloria <amoskesegloria.com>",
+    "license": "MIT"
+  }
